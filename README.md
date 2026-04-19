@@ -158,7 +158,7 @@ Level: Advanced
 
 ## 🙌 Author
 
-**Shahzaib**    
+**Shahzaib Baig**    
 Built as part of a Hackathon Project 🏆
 
 ---
